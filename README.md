@@ -10,7 +10,14 @@
   
 -------------------
   
+
+| <a href="https://github.com/wekers/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wekers&include_all_commits=false&count_private=false&hide_border=true" alt="WeKeRs github stats" /></a> | <a href="https://github.com/wekers/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wekers&include_all_commits=false&count_private=false&layout=compact&hide_progress=true&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=wekers&hide_border=false)<br/>
+![snake gif](https://github.com/wekers/wekers/blob/output/github-contribution-grid-snake.gif)
+  
+<!-- 
 ![](https://github-readme-stats.vercel.app/api?username=wekers&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wekers&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wekers&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide_progress=true)
-![snake gif](https://github.com/wekers/wekers/blob/output/github-contribution-grid-snake.gif)
+-->
