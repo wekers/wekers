@@ -1,7 +1,8 @@
 <div align="center">
   
 ## About
-"It takes a long time to become young." - PP
+[![MasterHead](github_banner.png)](https://github.com/wekers)
+
 
 -------------------
 ### Languages and Tools  
