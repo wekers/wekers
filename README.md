@@ -21,7 +21,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=wekers&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wekers&hide_border=false)<br/>
 -->
-  
+</div>
+<div align="left">
+### My WakaTime Stats 📊:
 <!--START_SECTION:waka-->
 
 ```txt
