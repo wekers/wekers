@@ -15,8 +15,13 @@
 | ------------- | ------------- |
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wekers&hide_border=false)<br/>
-![snake gif](https://github.com/wekers/wekers/blob/output/github-contribution-grid-snake.gif)
-  
+<!--- ![snake gif](https://github.com/wekers/wekers/blob/output/github-contribution-grid-snake.gif) --->
+<picture>
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/wekers/wekers/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 <!-- 
 ![](https://github-readme-stats.vercel.app/api?username=wekers&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wekers&hide_border=false)<br/>
