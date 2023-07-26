@@ -15,7 +15,6 @@
 | ------------- | ------------- |
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wekers&hide_border=false)<br/>
-![](https://raw.githubusercontent.com/wekers/wekers/output/github-contribution-grid-snake.svg)<br>
 <!--- ![snake gif](https://github.com/wekers/wekers/blob/output/github-contribution-grid-snake.gif) --->
 <picture>
   <img
