@@ -56,6 +56,7 @@ Windows                          █░░░░░░░░░░░░░░�
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=desafio-consulta-vendas)](https://github.com/wekers/desafio-consulta-vendas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wekers&repo=PedidosProdutos)](https://github.com/wekers/PedidosProdutos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=TCC-RetaguardaLoja)](https://github.com/wekers/TCC-RetaguardaLoja)
 
 </div>
 
