@@ -53,10 +53,29 @@ Windows                          █░░░░░░░░░░░░░░�
 ------
 </div>
 <div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=desafio-consulta-vendas)](https://github.com/wekers/desafio-consulta-vendas)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wekers&repo=PedidosProdutos)](https://github.com/wekers/PedidosProdutos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=TCC-RetaguardaLoja)](https://github.com/wekers/TCC-RetaguardaLoja)
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/wekers/desafio-consulta-vendas">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=desafio-consulta-vendas">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/wekers/PedidosProdutos">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wekers&repo=PedidosProdutos">
+      </a>
+    </td>
+   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/wekers/TCC-RetaguardaLoja">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=TCC-RetaguardaLoja">
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
+
+
+
 
