@@ -11,7 +11,7 @@
 -------------------
   
 
-| <a href="https://github.com/wekers/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wekers&include_all_commits=true&count_private=true&hide_border=true&PAT_1" alt="WeKeRs github stats" /></a> | <a href="https://github.com/wekers/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wekers&include_all_commits=true&count_private=true&layout=compact&hide_progress=true&hide_border=true" /></a> |
+| <a href="https://github.com/wekers/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wekers&include_all_commits=true&count_private=true&hide_border=true" alt="WeKeRs github stats" /></a> | <a href="https://github.com/wekers/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wekers&include_all_commits=true&count_private=true&layout=compact&hide_progress=true&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wekers&hide_border=false)<br/>
