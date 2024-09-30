@@ -72,6 +72,11 @@ Windows                          █░░░░░░░░░░░░░░�
         <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=TCC-RetaguardaLoja">
       </a>
     </td>
+    <td>
+      <a href="[https://github.com/wekers/TCC-RetaguardaLoja](https://github.com/wekers/DesafioTDDEventCity-)">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=DesafioTDDEventCity-">
+      </a>
+    </td>
   </tr>
 </table>
   
