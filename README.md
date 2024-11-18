@@ -14,7 +14,7 @@
 | <a href="https://github.com/wekers/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wekers&include_all_commits=true&count_private=true&hide_border=true" alt="WeKeRs github stats" /></a> | <a href="https://github.com/wekers/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wekers&include_all_commits=true&count_private=true&layout=compact&hide_progress=true&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-![](https://streak-stats.demolab.com/?user=wekers)
+[![GitHub Streak](https://github-readme-streak-stats-psi-seven.vercel.app?user=wekers)](https://git.io/streak-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wekers/wekers/output/github-contribution-grid-snake-dark.svg">
