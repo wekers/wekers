@@ -80,7 +80,7 @@ Windows                          █░░░░░░░░░░░░░░�
   </tr>
    <tr>
     <td>
-      <a href="[https://github.com/wekers/TCC-RetaguardaLoja](https://github.com/wekers/imageConvert-toGrayAndBinary)">
+      <a href="https://github.com/wekers/imageConvert-toGrayAndBinary">
         <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=imageConvert-toGrayAndBinary">
       </a>
     </td>
