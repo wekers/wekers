@@ -91,6 +91,13 @@ Windows                          █░░░░░░░░░░░░░░�
       </a>
     </td>
      </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/wekers/event-sourcing-project/tree/mongodb">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=event-sourcing-project">
+      </a>
+    </td>
+    </tr>
 </table>
   
 </div>
