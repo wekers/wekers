@@ -12,8 +12,26 @@
 <!-- 
 src="https://github-readme-stats.vercel.app/api?username=wekers&include_all_commits=true&count_private=true&hide_border=true"
 -->
-| <a href="https://github.com/wekers/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wekers&include_all_commits=true&theme=dracula&count_private=true&hide_border=true" alt="WeKeRs github stats" /></a> | <a href="https://github.com/wekers/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wekers&include_all_commits=true&count_private=true&layout=compact&hide_progress=true&hide_border=true&theme=dracula" /></a> |
-| ------------- | ------------- |
+
+<div align="center">
+
+<table style="background:#1e1e1e; border-radius:10px; padding:10px;">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/wekers/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=wekers&include_all_commits=true&count_private=true&hide_border=true&theme=dracula" alt="WeKeRs github stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wekers/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wekers&include_all_commits=true&count_private=true&layout=compact&hide_progress=true&hide_border=true&theme=dracula" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 [![GitHub Streak](https://github-readme-streak-ten.vercel.app?user=wekers&date_format=j%20M%5B%20Y%5D&theme=dracula)](https://git.io/streak-stats)
 
@@ -58,43 +76,43 @@ Windows                          █░░░░░░░░░░░░░░�
   <tr>
     <td>
       <a href="https://github.com/wekers/desafio-consulta-vendas">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=desafio-consulta-vendas">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=desafio-consulta-vendas&theme=dracula">
       </a>
     </td>
     <td>
       <a href="https://github.com/wekers/PedidosProdutos">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wekers&repo=PedidosProdutos">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wekers&repo=PedidosProdutos&theme=dracula">
       </a>
     </td>
    </tr>
   <tr>
     <td>
       <a href="https://github.com/wekers/TCC-RetaguardaLoja">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=TCC-RetaguardaLoja">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=TCC-RetaguardaLoja&theme=dracula">
       </a>
     </td>
     <td>
       <a href="https://github.com/wekers/DesafioTDDEventCity-">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=DesafioTDDEventCity-">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=DesafioTDDEventCity-&theme=dracula">
       </a>
     </td>
   </tr>
    <tr>
     <td>
       <a href="https://github.com/wekers/imageConvert-toGrayAndBinary">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=imageConvert-toGrayAndBinary">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=imageConvert-toGrayAndBinary&theme=dracula">
       </a>
     </td>
      <td>
       <a href="https://github.com/wekers/spring-webflux-mongodb">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=spring-webflux-mongodb">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=spring-webflux-mongodb&theme=dracula">
       </a>
     </td>
      </tr>
   <tr>
     <td>
       <a href="https://github.com/wekers/event-sourcing-project/tree/mongodb">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=event-sourcing-project">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=event-sourcing-project&theme=dracula">
       </a>
     </td>
     </tr>
