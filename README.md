@@ -59,7 +59,7 @@ src="https://github-readme-stats.vercel.app/api?username=wekers&include_all_comm
 </div>
 
 
-[![GitHub Streak](https://github-readme-streak-ten.vercel.app?user=wekers&date_format=j%20M%5B%20Y%5D&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-ten.vercel.app?user=wekers&date_format=j%20M%5B%20Y%5D&theme=shadow-blue)](https://git.io/streak-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wekers/wekers/output/github-contribution-grid-snake-dark.svg">
