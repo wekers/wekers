@@ -2,23 +2,37 @@
   
 ## About
 [![MasterHead](github_banner.png)](https://github.com/wekers)
+<div align="center">
+  <sub><code>full-cycle development • distributed systems • reliability • unix philosophy</code></sub>
+</div>
 
+<br/>
 
-### Languages & Tools  
+### Languages & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/FreeBSD-777?style=flat&logo=freebsd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-777?style=flat&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slackware-777?style=flat&logo=slackware&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-777?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-777?style=flat&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-777?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-777?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-777?style=flat&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-777?style=flat&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache Kafka-777?style=flat&logo=apache-kafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-777?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell Script-777?style=flat&logo=gnu-bash&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/FreeBSD-8C1A18?style=plastic&logo=freebsd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-C5B56A?style=plastic&logo=linux&logoColor=111111"/>
+  <img src="https://img.shields.io/badge/Slackware-3E1F54?style=plastic&logo=slackware&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Java-C87B00?style=plastic&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-5A9F44?style=plastic&logo=spring&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/PostgreSQL-264B7F?style=plastic&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-3E7F42?style=plastic&logo=mongodb&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/RabbitMQ-D96500?style=plastic&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-2B57CB?style=plastic&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache Kafka-1F1A1A?style=plastic&logo=apache-kafka&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Docker-1F7FCB?style=plastic&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell Script-3A8B2A?style=plastic&logo=gnu-bash&logoColor=white"/>
+
 </p>
+
+
+
+
 
 ---
 <!-- 
