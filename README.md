@@ -45,7 +45,7 @@ src="https://github-readme-stats.vercel.app/api?username=wekers&include_all_comm
   <tr>
     <td align="center">
       <a href="https://github.com/wekers/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=wekers&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="WeKeRs github stats" />
+        <img src="https://github-readme-stats-nu-eight-41.vercel.app/api?username=wekers&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="WeKeRs github stats" />
       </a>
     </td>
     <td align="center">
