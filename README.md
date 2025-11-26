@@ -50,7 +50,7 @@ src="https://github-readme-stats.vercel.app/api?username=wekers&include_all_comm
     </td>
     <td align="center">
       <a href="https://github.com/wekers/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wekers&include_all_commits=true&count_private=true&layout=compact&hide_progress=true&hide_border=true&theme=transparent" />
+        <img src="https://github-readme-stats-nu-eight-41.vercel.app/api/top-langs/?username=wekers&include_all_commits=true&count_private=true&layout=compact&hide_progress=true&hide_border=true&theme=transparent" />
       </a>
     </td>
   </tr>
