@@ -141,6 +141,11 @@ Windows                          █░░░░░░░░░░░░░░�
         <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=event-sourcing-project&theme=transparent">
       </a>
     </td>
+    <td>
+      <a href="https://github.com/wekers/elasticsearch">
+        <img src="https://github-readme-stats-nu-eight-41.vercel.app/api/pin?username=wekers&repo=elasticsearch&theme=transparent">
+      </a>
+    </td>
     </tr>
 </table>
 </div>
