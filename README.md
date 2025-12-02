@@ -102,43 +102,43 @@ Windows                          █░░░░░░░░░░░░░░�
   <tr>
     <td>
       <a href="https://github.com/wekers/desafio-consulta-vendas">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=desafio-consulta-vendas&theme=transparent">
+        <img src="https://github-readme-stats-nu-eight-41.vercel.app/api/pin?username=wekers&repo=desafio-consulta-vendas&theme=transparent">
       </a>
     </td>
     <td>
       <a href="https://github.com/wekers/PedidosProdutos">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wekers&repo=PedidosProdutos&theme=transparent">
+        <img src="https://github-readme-stats-nu-eight-41.vercel.app/api/pin/?username=wekers&repo=PedidosProdutos&theme=transparent">
       </a>
     </td>
    </tr>
   <tr>
     <td>
       <a href="https://github.com/wekers/TCC-RetaguardaLoja">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=TCC-RetaguardaLoja&theme=transparent">
+        <img src="https://github-readme-stats-nu-eight-41.vercel.app/api/pin?username=wekers&repo=TCC-RetaguardaLoja&theme=transparent">
       </a>
     </td>
     <td>
       <a href="https://github.com/wekers/DesafioTDDEventCity-">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=DesafioTDDEventCity-&theme=transparent">
+        <img src="https://github-readme-stats-nu-eight-41.vercel.app/api/pin?username=wekers&repo=DesafioTDDEventCity-&theme=transparent">
       </a>
     </td>
   </tr>
    <tr>
     <td>
       <a href="https://github.com/wekers/imageConvert-toGrayAndBinary">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=imageConvert-toGrayAndBinary&theme=transparent">
+        <img src="https://github-readme-stats-nu-eight-41.vercel.app/api/pin?username=wekers&repo=imageConvert-toGrayAndBinary&theme=transparent">
       </a>
     </td>
      <td>
       <a href="https://github.com/wekers/spring-webflux-mongodb">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=spring-webflux-mongodb&theme=transparent">
+        <img src="https://github-readme-stats-nu-eight-41.vercel.app/api/pin?username=wekers&repo=spring-webflux-mongodb&theme=transparent">
       </a>
     </td>
      </tr>
   <tr>
     <td>
       <a href="https://github.com/wekers/event-sourcing-project/tree/mongodb">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=wekers&repo=event-sourcing-project&theme=transparent">
+        <img src="https://github-readme-stats-nu-eight-41.vercel.app/api/pin?username=wekers&repo=event-sourcing-project&theme=transparent">
       </a>
     </td>
     <td>
