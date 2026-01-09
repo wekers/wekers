@@ -8,6 +8,14 @@
 
 <br/>
 
+## 🔐 Identity & Verification
+
+- **OpenPGP (WKD)**: fernando@wekers.org  
+- **Key ID**: `0x13CDE3F3`  
+- **Fingerprint**: `023C 02DA 20F5 ABC9 67AC 8860 1055 F6B8 13CD E3F3`
+
+All commits are signed and verifiable.
+---
 ### Languages & Tools
 <p align="center">
 
