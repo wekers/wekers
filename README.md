@@ -8,10 +8,13 @@
 
 <br/>
 
-### 🔐 OpenPGP
+### 🔐 **OpenPGP (WKD)**  
 
-WKD: fernando@wekers.org  
-Fingerprint: 023C 02DA 20F5 ABC9 67AC 8860 1055 F6B8 13CD E3F3
+fernando@wekers.org  
+Fingerprint: 023C 02DA 20F5 ABC9 67AC 8860 1055 F6B8 13CD E3F3  
+
+All commits are signed and verifiable.
+
 
 ---
 
