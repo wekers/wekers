@@ -5,15 +5,11 @@
 <div align="center">
   <sub><code>full-cycle development • distributed systems • reliability • unix philosophy</code></sub>
 </div>
-<br/>
-<br/>
-<br/>
+<br/><br/><br/>
 
----
-<br/>
 
-#### 🔐 **OpenPGP (WKD)**  
 
+🔐 **OpenPGP (WKD)**  
 fernando@wekers.org  
 Fingerprint: 023C 02DA 20F5 ABC9 67AC 8860 1055 F6B8 13CD E3F3  
 
