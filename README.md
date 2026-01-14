@@ -5,10 +5,13 @@
 <div align="center">
   <sub><code>full-cycle development • distributed systems • reliability • unix philosophy</code></sub>
 </div>
-
+<br/>
+<br/>
 <br/>
 
 ---
+<br/>
+
 #### 🔐 **OpenPGP (WKD)**  
 
 fernando@wekers.org  
