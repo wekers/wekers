@@ -156,6 +156,13 @@ Windows                          █░░░░░░░░░░░░░░�
       </a>
     </td>
     </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/wekers/FC-IaC">
+        <img src="https://github-readme-stats-nu-eight-41.vercel.app/api/pin?username=wekers&repo=FC-IaC&theme=transparent">
+      </a>
+    </td>
+    </tr>
 </table>
 </div>
 
