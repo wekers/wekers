@@ -111,7 +111,7 @@ Windows                          █░░░░░░░░░░░░░░�
   <tr>
     <td>
       <a href="https://github.com/wekers/desafio-consulta-vendas">
-        <img src="https://github-readme-stats-nu-eight-41.vercel.app/api/pin?username=wekers&repo=desafio-consulta-vendas&theme=transparent">
+        <img src="https://github-stats-extended.vercel.app/api/pin?username=wekers&repo=desafio-consulta-vendas&theme=transparent">
       </a>
     </td>
     <td>
@@ -140,7 +140,7 @@ Windows                          █░░░░░░░░░░░░░░�
     </td>
      <td>
       <a href="https://github.com/wekers/spring-webflux-mongodb">
-        <img src="https://github-readme-stats-nu-eight-41.vercel.app/api/pin?username=wekers&repo=spring-webflux-mongodb&theme=transparent">
+        <img src="https://github-stats-extended.vercel.app/api/pin?username=wekers&repo=spring-webflux-mongodb&theme=transparent">
       </a>
     </td>
      </tr>
