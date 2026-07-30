@@ -162,6 +162,11 @@ Windows                          █░░░░░░░░░░░░░░�
         <img src="https://github-stats-extended.vercel.app/api/pin?username=wekers&repo=FC-IaC&theme=transparent">
       </a>
     </td>
+    <td>
+      <a href="https://github.com/wekers/AI-Fundamentals">
+        <img src="https://github-stats-extended.vercel.app/api/pin?username=wekers&repo=AI-Fundamentals&theme=transparent">
+      </a>
+    </td>
     </tr>
 </table>
 </div>
