@@ -128,7 +128,7 @@ Windows                          █░░░░░░░░░░░░░░�
     </td>
     <td>
       <a href="https://github.com/wekers/DesafioTDDEventCity-">
-        <img src="https://github-readme-stats-nu-eight-41.vercel.app/api/pin?username=wekers&repo=DesafioTDDEventCity-&theme=transparent">
+        <img src="https://github-stats-extended.vercel.app/api/pin?username=wekers&repo=DesafioTDDEventCity-&theme=transparent">
       </a>
     </td>
   </tr>
