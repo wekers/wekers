@@ -170,7 +170,7 @@ Windows                          █░░░░░░░░░░░░░░�
     </tr>
    <tr>
     <td>
-      <a href="https://github.com/wekers/FC-IaC">
+      <a href="https://github.com/wekers/shortURL">
         <img src="https://github-stats-extended.vercel.app/api/pin?username=wekers&repo=shortURL&theme=transparent">
       </a>
     </td>
